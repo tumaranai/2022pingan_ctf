@@ -1,4 +1,6 @@
 # 2022pingan_ctf
-good
+
+find it!!
+
 
 pingan_ctf@pingan.com.cn
